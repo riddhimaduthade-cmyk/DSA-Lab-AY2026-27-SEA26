@@ -1,4 +1,4 @@
-# DSA-Lab-AY2026-27-SEA32
+# DSA-Lab-AY2026-27-SEA26
 # DSA Laboratory Practicals
 
 ## Student Information
